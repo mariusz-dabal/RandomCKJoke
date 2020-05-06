@@ -1,2 +1,0 @@
-# RandomCKJoke
-Created with CodeSandbox
